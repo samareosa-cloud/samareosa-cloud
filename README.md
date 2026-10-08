@@ -1,13 +1,77 @@
+# 안녕하세요, 조혜은입니다 👋
 
+**MCU 펌웨어로 센서를 읽고 모터를 움직이고, 비전·앱과 연결해 하나의 시스템으로 만듭니다.**
 
-## Tech Stack
+<br>
 
-| 분야 | 사용 경험 |
-|---|---|
-| MCU · Firmware | ESP32, ATmega128 (C / ASM), Arduino |
-| SBC | Raspberry Pi 5 |
-| Sensor · Actuator | TFmini LiDAR, 초음파, IR, DC 모터 + MDD10A, 서보 |
-| Communication | UART, BLE, Bluetooth SPP, ZeroMQ |
-| Vision | OpenCV (C++ / Python), HSV 색상 분석, YOLO 연동 |
-| Language | C, C++, Python, Dart |
-| Tools | Arduino IDE, AVR-GCC, Visual Studio, Git |
+## 🙋 Stacks
+
+#### Embedded
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ATmega128](https://img.shields.io/badge/ATmega128-EF2D5E?style=for-the-badge&logo=microchip&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+#### Vision · App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Communication · Tools
+![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## 🛠 Projects
+
+| 기간 | 프로젝트 | 역할 | 기술 |
+|:---:|---|---|---|
+| 2026 | **[Navis](https://github.com/samareosa-cloud/2026ESWContest_free_JOJOLEEHAN)**<br>AI 기반 시각장애인 반자율 보행 보조 시스템 | **팀장**<br>모터 조향 제어, 회로·HW 제작 | ESP32, Raspberry Pi,<br>YOLO, Flutter |
+| 2026 | **[Bootivation](https://github.com/samareosa-cloud/2026_Bootivation)**<br>무인매장 고객·배달기사 검증 시스템 | POS 펌웨어<br>(ASM → C 모듈화), 트레이 인식 | ATmega128, RPi 5,<br>OpenCV, ZeroMQ |
+| 【학기】 | **[AEEDS](https://github.com/samareosa-cloud/AEEDS)**<br>영상처리 실습 | Gradient, HOG,<br>코너 검출 직접 구현 | C++, OpenCV |
+
+<br>
+
+## 🔥 Activity
+
+| 기간 | 활동 내용 | 단체 |
+|:---:|---|---|
+| 2026 | 임베디드SW경진대회 자유공모 · Navis 팀장 | 【주관 기관】 |
+| 2026 | 해커톤 · Bootivation POS 펌웨어 담당 | SSG-SSAC |
+| 【기간】 | 【동아리·스터디 등】 | 【단체명】 |
+
+<br>
+
+## 🎓 Education
+
+| 기간 | 학교 | 전공 |
+|:---:|---|---|
+| 【입학년도】 ~ 재학 중 | 【학교명】 | 전기전자공학 |
+
+<br>
+
+## 📚 Certificates
+
+| 날짜 | 자격증 | 주관 |
+|:---:|---|---|
+| 【날짜】 | 【자격증명】 | 【주관】 |
+
+<br>
+
+## 🏆 Awards
+
+| 날짜 | 상명 | 주관 | 내용 |
+|:---:|---|---|---|
+| 【날짜】 | 【상명】 | 【주관】 | 【내용】 |
+
+<br>
+
+## 🤝 Contact
+
+[![CV](https://img.shields.io/badge/CV-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://samareosa-cloud.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:【이메일】)
