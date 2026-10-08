@@ -31,7 +31,7 @@
 
 | 기간 | 프로젝트 | 역할 | 기술 |
 |:---:|---|---|---|
-| 2026 | **[Navis](https://github.com/samareosa-cloud/2026ESWContest_free_JOJOLEEHAN)**<br>AI 기반 시각장애인 반자율 보행 보조 시스템 | **팀장**<br>모터 조향 제어, 회로·HW 제작 | ESP32, Raspberry Pi,<br>YOLO, Flutter |
+| 2026 | **[Navis](https://github.com/samareosa-cloud/2026ESWContest_free_JOJOLEEHAN)**<br>AI 기반 시각장애인 반자율 보행 보조 시스템<br>🏆 창의설계경진대회 장려상 · 임베디드SW경진대회 본선 | **팀장**<br>모터 조향 제어, 회로·HW 제작 | ESP32, Raspberry Pi,<br>YOLO, Flutter |
 | 2026 | **[Bootivation](https://github.com/samareosa-cloud/2026_Bootivation)**<br>무인매장 고객·배달기사 검증 시스템 | POS 펌웨어<br>(ASM → C 모듈화), 트레이 인식 | ATmega128, RPi 5,<br>OpenCV, ZeroMQ |
 | 【학기】 | **[AEEDS](https://github.com/samareosa-cloud/AEEDS)**<br>영상처리 실습 | Gradient, HOG,<br>코너 검출 직접 구현 | C++, OpenCV |
 
@@ -43,7 +43,7 @@
 |:---:|---|---|
 | 2026 | 임베디드SW경진대회 자유공모 · Navis 팀장 | 【건국대학교 공학교육혁신센터】 |
 | 2026.07 | 융합 창업 해커톤 · Bootivation POS 펌웨어 담당 | 건국대 창업지원본부 × 부트사차원 × MOTivation |
-| 【기간】 | 【동아리·스터디 등】 | 【단체명】 |
+| 2026 ~ ing | 제24회 임베디드SW경진대회 자유공모 · **본선 진출** · Navis 팀장 | 산업통상부<br>(주관: 한국임베디드AX산업협회) |
 
 <br>
 
@@ -51,15 +51,7 @@
 
 | 기간 | 학교 | 전공 |
 |:---:|---|---|
-| 【입학년도】 ~ 재학 중 | 【학교명】 | 전기전자공학 |
-
-<br>
-
-## 📚 Certificates
-
-| 날짜 | 자격증 | 주관 |
-|:---:|---|---|
-| 【날짜】 | 【자격증명】 | 【주관】 |
+| 【2024.03】 ~ 재학 중 | 【건국대학교】 | 전기전자공학부 |
 
 <br>
 
