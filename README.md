@@ -67,4 +67,4 @@
 ## 🤝 Contact
 
 [![CV](https://img.shields.io/badge/CV-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://samareosa-cloud.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:【이메일】)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:【haennniii@naver.com】)
